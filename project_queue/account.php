@@ -295,7 +295,7 @@ require('databaseconnection.php');
 <body style="background-color: #201d1d;">
         <div class="navi">
             <nav>
-                <a href="home.html">Home</a>
+                <a href="index.html">Home</a>
                 <a href="info.html">INFORMATION ON QUEUE</a>
                 <a href="account.php">LOG IN/SIGN UP</a>
                 <a href="AboutUs.html">ABOUT Us</a>
